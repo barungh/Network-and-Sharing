@@ -1,0 +1,14 @@
+{
+  "name": "roadmap",
+  "version": "1.0.0",
+  "description": "Learing to create Computer Networks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Network"
+  ],
+  "author": "Barun Ghosh",
+  "license": "MIT"
+}
